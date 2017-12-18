@@ -1,4 +1,8 @@
 # skillgit
 ladaima
 + modify
-a and b
+<<<<<<< HEAD
+a & b
+=======
+a & b
+>>>>>>> feature1
