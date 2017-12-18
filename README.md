@@ -1,9 +1,3 @@
 # skillgit
-ladaima
-+ modify
-<<<<<<< HEAD
-a & b change
-=======
-a & b
-??
->>>>>>> feature1
+
+This is a test file.
